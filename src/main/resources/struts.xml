@@ -17,7 +17,6 @@
     <!-- 
     <package name="default" namespace="/" extends="struts-default" strict-method-invocation="false">
         
-      
     </package> -->
  
 </struts>
